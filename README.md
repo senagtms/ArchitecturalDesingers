@@ -1,5 +1,6 @@
 # ArchitecturalDesingers
 It is a responsive website made using html, css, javascript and various animations.
+</br>
 ![Screenshot_6](https://user-images.githubusercontent.com/46827580/157185328-cd9c6101-004a-4c19-9911-28c61919c43d.png)
 
 </br>
